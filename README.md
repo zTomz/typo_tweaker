@@ -19,7 +19,7 @@ Add TypoTweaker to your Flutter project by adding the following line to your pub
 
 ```yaml
 dependencies:
-  typo_tweaker: ^1.0.0
+  typo_tweaker: ^0.0.2
 ```
 Then install the packages with:
 
@@ -32,15 +32,15 @@ flutter pub get
 import 'package:typo_tweaker/typo_tweaker.dart';
 ```
 
-```
+```dart
 void main() {
   runApp(
     MaterialApp(
       home: Scaffold(
         body: Center(
           child: TypoTweaker(
-            text: 'Hello, TypoTweaker!
-            duration: Duration(seconds: 2),
+            text: 'Hello, TypoTweaker!',
+            animationDuration: Duration(seconds: 2),
             animationType: TypoAnimationType.hacker,
           ),
         ),
