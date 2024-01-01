@@ -41,7 +41,7 @@ void main() {
           child: TypoTweaker(
             text: 'Hello, TypoTweaker!
             duration: Duration(seconds: 2),
-            animationType: TypoAnimationType.FadeIn,
+            animationType: TypoAnimationType.hacker,
           ),
         ),
       ),

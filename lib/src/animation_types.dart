@@ -1,0 +1,4 @@
+enum TypoTweakerAnimation {
+  buildLetters,
+  hacker,
+}
