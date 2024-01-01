@@ -54,4 +54,4 @@ void main() {
 We welcome contributions and feedback! If you have suggestions for improvements or bug reports, simply create an issue or a pull request on GitHub.
 
 ## License 📝
-TypoTweaker is licensed under the MIT license. See the license file for more details.
+TypoTweaker is licensed under the MIT license. See the [license file](LICENSE) for more details.

@@ -1,7 +1,7 @@
 name: typo_tweaker
 description: "Welcome to TypoTweaker - the ultimate flutter package for impressive text animations! 💬✨"
 version: 0.0.1
-homepage: https://github.com/zTomz/TypeTweaker
+homepage: https://github.com/zTomz/typo_tweaker
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
